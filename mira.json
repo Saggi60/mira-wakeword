@@ -6,11 +6,10 @@
   "website": "",
   "trained_languages": ["fr"],
   "model": "mira.tflite",
-  "micro": {
-    "probability_cutoff": 0.95,
-    "sliding_window_size": 5,
-    "feature_step_size": 10,
-    "tensor_arena_size": 30000,
-    "minimum_compatible_version": 1
+  "probability_cutoff": 0.95,
+  "sliding_window_size": 5,
+  "feature_step_size": 10,
+  "tensor_arena_size": 30000,
+  "minimum_compatible_version": 1
   }
 }
