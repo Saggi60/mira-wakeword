@@ -5,7 +5,7 @@
   "author": "Saggi",
   "website": "",
   "trained_languages": ["fr"],
-  "model": "https://raw.githubusercontent.com/Saggi60/mira-wakeword/main/mira.tflite",
+  "model": "mira.tflite",
   "probability_cutoff": 0.95,
   "sliding_window_size": 5,
   "feature_step_size": 10,
